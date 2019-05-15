@@ -17,11 +17,11 @@ export default create ({
   fontCode: 'monospace',
 
   // Text colors
-  textColor: 'white',
-  textInverseColor: 'rgba(255,255,255,0.9)',
+  textColor: 'rgb(255, 250, 250)',
+  textInverseColor: 'white',
 
   // Toolbar default and active colors
-  barTextColor: 'black',
+  barTextColor: 'white',
   barSelectedColor: 'white',
   barBg: 'rgb(246, 153, 190)',
 

@@ -1,10 +1,12 @@
 import { configure } from '@storybook/react';
 import { addParameters } from '@storybook/react';
-import pinkPanther from './pinkPanther'
+// import pinkPanther from './pinkPanther'
+import { themes } from '@storybook/theming';
+
 
 addParameters({
   options: {
-    theme: pinkPanther
+    theme: themes.dark
   }
 })
 
