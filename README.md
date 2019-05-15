@@ -1,10 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![React Project](https://res.cloudinary.com/lauragift/image/upload/v1557935419/Screen_Shot_2019-05-15_at_4.49.03_PM_qotvw4.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+### `yarn start`
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
